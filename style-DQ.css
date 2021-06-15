@@ -1,8 +1,9 @@
-*{
+body{
     background-image: url("qtr001.png");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position:center;
+    
 }
 
 
@@ -27,6 +28,9 @@
     list-style-type: none;
     background-color: maroon;
     height: 620px;
+    position: sticky;
+    position: fixed;
+
     
     
     
@@ -44,3 +48,24 @@
 span{
     color:white;
 }
+
+h1{
+    padding-left: 90px;
+    text-align: center;
+    padding-top: 125px;
+    color:maroon ;
+    font-size: 100px;
+}
+
+p{
+    padding-left: 200px;
+    color: rgb(145, 33, 33);
+    font-size: 30px;
+}
+
+#txt{
+    padding-left: 100px;
+    color: rgb(145, 33, 33);
+}
+
+
