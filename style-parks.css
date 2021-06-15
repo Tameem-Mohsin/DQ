@@ -1,0 +1,36 @@
+body{
+    background-image: url("qtr001.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+
+.special1{ padding-top: 55px;
+    
+    
+}
+
+.special1 :hover{ background-color:rgb(175, 99, 99);
+    
+}
+
+
+.nav-pills{
+    width: fit-content;
+}
+
+.flex-column{
+    float: left;
+    list-style-type: none;
+    background-color: maroon;
+    height: 620px;
+    position: sticky;
+    position: fixed;
+}
+
+span{
+    color:white;
+}
+
+
